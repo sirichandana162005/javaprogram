@@ -1,6 +1,6 @@
-public class java program {
+public class javaprogram {
     public static void main (string[] args){
-        system.out.println("javaprogram");
+        system.out.println("hello pranathi");
     }
 }
 }
